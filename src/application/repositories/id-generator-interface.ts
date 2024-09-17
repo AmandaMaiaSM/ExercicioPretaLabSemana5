@@ -1,3 +1,4 @@
 export interface IdGenerator {
- //seu codigo aqui
+ //regra do id 
+ generate(): string;
 }
